@@ -1,0 +1,8 @@
+Checkpoint (With example of SDXL Turbo): 
+
+!wget -O /content/Fooocus/models/checkpoints/DreamShaper-XL.safetensors https://civitai.com/api/download/models/351306?type=Model&format=SafeTensor&size=full&fp=fp16
+
+
+LoRa whitout example: 
+
+!wget -Lo /content/Fooocus/models/loras/[lora name].safetensors [lora link]
